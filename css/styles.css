@@ -16,27 +16,27 @@ body, html {
   
   }
   .bgimg-1 {
-    background-image: url("/img/headerFondoBackground1.png");
+    background-image: url("/site/img/headerFondoBackground1.png");
     min-height: 100%;
   }
   
   .bgimg-2 {
-    background-image: url("/img/fondoconocimientos.jpg");
+    background-image: url("/site/img/fondoconocimientos.jpg");
     min-height: 400px;
   }
   
   .bgimg-3 {
-    background-image: url("/img/fondoproyectos.jpg");
+    background-image: url("/site/img/fondoproyectos.jpg");
     min-height: 400px;
   }
 
   .bgimg-4 {
-    background-image: url("/img/headerFondoBackground5.jpg");
+    background-image: url("/site/img/headerFondoBackground5.jpg");
     min-height: 400px;
   }
 
   .bgimg-5 {
-    background-image: url("/img/headerFondoBackground4.jpg");
+    background-image: url("/site/img/headerFondoBackground4.jpg");
     min-height: 400px;
   }
   
